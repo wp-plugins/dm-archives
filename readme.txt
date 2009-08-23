@@ -3,7 +3,7 @@ Contributors: Nischal Maniar
 Tags: Archives, Monthly Posts
 Requires at least: 2.5
 Tested up to: 2.8.4
-Stable tag: 1.0
+Stable tag: 1.1
 Author: Nischal Maniar
 Author URI: http://nischalmaniar.info
 
