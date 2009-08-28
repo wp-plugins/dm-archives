@@ -1,6 +1,6 @@
 <?php
 global $wpdb;
-define('CAL_ICON_URL', get_option('siteurl').'/wp-content/plugins/DM-Archives/images/cal_icon.png');
+define('CAL_ICON_URL', get_option('siteurl').'/wp-content/plugins/DM-Archives/img/cal_icon.png');
 $mnthsql = "SELECT DISTINCT Monthname(post_date) as post_month, Year(post_date) as post_year FROM $wpdb->posts where post_status = 'publish' AND post_type = 'post' AND Year(post_date) <= Year(now()) ORDER BY post_date DESC";
 $months = $wpdb->get_results($mnthsql);
 $output = $pre_HTML;
