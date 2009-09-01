@@ -3,7 +3,7 @@ Contributors: Nischal Maniar
 Tags: Archives, Monthly Posts
 Requires at least: 2.5
 Tested up to: 2.8.4
-Stable tag: 1.1
+Stable tag: 1.2
 Author: Nischal Maniar
 Author URI: http://nischalmaniar.info
 
@@ -28,4 +28,4 @@ Unzip the DM-Archives folder into the plugins folder or Use the wordpress admin 
 
 == Changelog ==
 
-1.0
+1.2 Fixed the img folder issue
